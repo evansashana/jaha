@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ff19e47-839a-479d-96c5-18ab9ba7929d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/ashana.png" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial/customer1.png" afterPath="$PROJECT_DIR$/img/team/customer1.png" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial/customer2.png" afterPath="$PROJECT_DIR$/img/team/customer2.png" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial/customer3.png" afterPath="$PROJECT_DIR$/img/team/customer3.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/less/main.less" afterPath="$PROJECT_DIR$/less/main.less" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="403" column="8" lean-forward="false" selection-start-line="403" selection-start-column="8" selection-end-line="403" selection-end-column="8" />
+            <state relative-caret-position="270">
+              <caret line="62" column="34" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -101,6 +95,7 @@
     <findStrings>
       <find>testimo</find>
       <find>video/video</find>
+      <find>video</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="22" />
+    <option name="x" value="135" />
+    <option name="y" value="47" />
     <option name="width" value="1420" />
     <option name="height" value="786" />
   </component>
@@ -228,11 +223,6 @@
             <path>
               <item name="WEBSITEjaha" type="b2602c69:ProjectViewProjectNode" />
               <item name="WEBSITEjaha" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WEBSITEjaha" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WEBSITEjaha" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WEBSITEjaha" type="b2602c69:ProjectViewProjectNode" />
@@ -400,15 +390,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540073770982</updated>
-      <workItem from="1540073824472" duration="1304000" />
+      <workItem from="1540073824472" duration="1746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1304000" />
+    <option name="totallyTimeSpent" value="1746000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="22" width="1420" height="786" extended-state="0" />
+    <frame x="135" y="47" width="1420" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -511,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="403" column="8" lean-forward="false" selection-start-line="403" selection-start-column="8" selection-end-line="403" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="62" column="34" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
           <folding />
         </state>
       </provider>
