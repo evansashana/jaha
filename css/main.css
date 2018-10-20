@@ -306,7 +306,7 @@ a:not([href]):not([tabindex]):hover {
    Video Background
    ========================================================================== */
 #video-area {
-  background: #0b7cff;
+  background: #c1e2b3;
   overflow: hidden;
   position: relative;
 }
