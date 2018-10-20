@@ -806,24 +806,24 @@ a:not([href]):not([tabindex]):hover {
 #testimonial {
   background: #f2f2f2;
 }
-.testimonial-item {
+.team-item {
   text-align: center;
 }
-.testimonial-item img {
+.team-item img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
 }
-.testimonial-item .testimonial-text h3 {
+.team-item .testimonial-text h3 {
   font-size: 16px;
   font-weight: 100;
   text-transform: uppercase;
 }
-.testimonial-item .testimonial-text span {
+.team-item .testimonial-text span {
   font-size: 15px;
   color: #999;
 }
-.testimonial-item .testimonial-text p {
+.team-item .testimonial-text p {
   font-size: 14px;
   font-weight: 400;
   padding: 20px 10px 20px 10px;
